@@ -1,8 +1,9 @@
-### Average CS MSU enjoyer...
+### Litteraly Mr self destruct
 
 <!--
 **AlexanderAverin/AlexanderAverin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
+### Average CS MSU enjoyer...
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
