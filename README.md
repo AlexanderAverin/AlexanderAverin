@@ -1,5 +1,10 @@
 ### Litteraly Mr self destruct
 
+Research Assistant at the ISP RAS.
+Currently focusing on emulation and computer graphics
+
+
+
 <!--
 **AlexanderAverin/AlexanderAverin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
