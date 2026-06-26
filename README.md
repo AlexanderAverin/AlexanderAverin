@@ -3,7 +3,7 @@
 Research Assistant at the ISP RAS.
 Currently focusing on emulation and computer graphics
 
-Alma matter -- MSU CMC
+Alma mater -- MSU CMC
 
 
 <!--
