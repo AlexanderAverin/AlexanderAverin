@@ -1,9 +1,9 @@
 ### Litteraly Mr self destruct
 
-Research Assistant at the ISP RAS.
+A trained monkey at the ISP RAS
 Currently focusing on emulation and computer graphics
 
-Alma mater -- MSU CMC
+Alma mater MSU CMC
 
 
 <!--
