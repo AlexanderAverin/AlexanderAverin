@@ -1,6 +1,6 @@
 ### Litteraly Mr self destruct
 
-A trained monkey at the ISP RAS
+A trained monkey at the ISP RAS.
 Currently focusing on emulation and computer graphics
 
 Alma mater MSU CMC
